@@ -1,4 +1,4 @@
-# Gémelo digital Robot Eddie
+ # Gémelo digital Robot Eddie
 
 Este repositorio contiene el material generado durante el Trabajo de Fin de Grado, el cual aborda el diseño e implementación de un gemelo digital funcional del robot móvil Eddie, utilizando la plataforma ROS 1 (Noetic Ninjemys). En una primera fase, el desarrollo se centró en la simulación y validación de las capacidades básicas de movilidad del robot.
 
@@ -8,8 +8,9 @@ Este repositorio contiene el material generado durante el Trabajo de Fin de Grad
 |----------------------------|------------------------------------|
 | [Piezas del robot en 2D](doc/figs_2D)      | Imágenes de las piezas individuales del robot en 2D |
 | [Piezas del robot en 3D](doc/figs_3D)      | Imágenes de las piezas individuales del robot en 3D |
-| [Soporte pantalla](doc/figs_SopPantalla)     | Fotos del soporte y diseño que se hizo para la pantalla del robot real |
+| [Soporte pantalla](doc/figs_SopPantalla)   | Fotos del soporte y diseño que se hizo para la pantalla del robot real |
 | [Capturas de la simulación en Gazebo y RVIZ](doc/figs_simulacion) | Visualizaciones de sensores y modelos en RViz y gazebo |
+| [Trabajo de fín de grado](doc/TFG_IGPESE.pdf)      | Documento final del TFG en formato PDF |
 
 Se presentan imágenes del robot real junto con sus componentes.
 <table align="center">
