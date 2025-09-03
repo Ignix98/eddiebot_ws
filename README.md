@@ -6,6 +6,7 @@ Este repositorio contiene el material generado durante el Trabajo de Fin de Grad
 
 | Sección                    | Descripción                        |
 |----------------------------|------------------------------------|
+| [Código](eddiebot_description)      | Código del proyecto |
 | [Piezas del robot en 2D](doc/figs_2D)      | Imágenes de las piezas individuales del robot en 2D |
 | [Piezas del robot en 3D](doc/figs_3D)      | Imágenes de las piezas individuales del robot en 3D |
 | [Soporte pantalla](doc/figs_SopPantalla)   | Fotos del soporte y diseño que se hizo para la pantalla del robot real |
