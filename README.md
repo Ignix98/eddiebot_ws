@@ -28,6 +28,9 @@ Representaciones del gemelo digital simuladas en Gazebo.
   </tr>
 </table>
 
+Se incluye un video que muestra el funcionamiento del trabajo final.
+https://youtu.be/RJX0aIKWb_4
+
 Como objetivo a futuro, se plantea la migración a ROS 2 para la realización de pruebas de movimiento para el Trabajo de Fin de Máster (TFM).
 
 
