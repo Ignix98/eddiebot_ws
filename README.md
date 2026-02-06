@@ -1,19 +1,21 @@
- # Gemelo digital Robot Eddie
+[🇪🇸 Español](./README.es.md) · **🇬🇧 English**
 
-Este repositorio contiene el material generado durante el Trabajo de Fin de Grado, el cual aborda el diseño e implementación de un gemelo digital funcional del robot móvil Eddie, utilizando la plataforma ROS 1 (Noetic Ninjemys) la cual esta pensada para Ubuntu 20.04. En una primera fase, el desarrollo se centró en la simulación y validación de las capacidades básicas de movilidad del gemelo digital del robot.
+# Digital Twin — Eddie Robot
 
-## Recursos del proyecto
+This repository contains the material produced during the Bachelor's Final Project (TFG), which focuses on the design and implementation of a functional digital twin of the Eddie mobile robot using the ROS 1 platform (Noetic Ninjemys), intended for Ubuntu 20.04. In the first phase, development focused on simulation and validation of the basic mobility capabilities of the robot’s digital twin.
 
-| Sección                    | Descripción                        |
-|----------------------------|------------------------------------|
-| [Código](eddiebot_description)      | Código del proyecto |
-| [Piezas del robot en 2D](doc/figs_2D)      | Imágenes de las piezas individuales del robot en 2D |
-| [Piezas del robot en 3D](doc/figs_3D)      | Imágenes de las piezas individuales del robot en 3D |
-| [Soporte pantalla](doc/figs_SopPantalla)   | Fotos del soporte y diseño que se hizo para la pantalla del robot real |
-| [Capturas de la simulación en Gazebo y RVIZ](doc/figs_simulacion) | Visualizaciones de sensores y modelos en RViz y gazebo |
-| [Trabajo de fín de grado](doc/TFG_IGPESE.pdf)      | Documento final del TFG en formato PDF |
+## Project resources
 
-Imágenes del robot real junto con sus componentes.
+| Section | Description |
+|--------|-------------|
+| [Code](eddiebot_description) | Project code |
+| [Robot parts in 2D](doc/figs_2D) | Images of the robot’s individual parts in 2D |
+| [Robot parts in 3D](doc/figs_3D) | Images of the robot’s individual parts in 3D |
+| [Screen mount](doc/figs_SopPantalla) | Photos of the mount and the design made for the real robot’s screen |
+| [Simulation screenshots in Gazebo and RViz](doc/figs_simulacion) | Sensor and model visualizations in RViz and Gazebo |
+| [Bachelor's Final Project](doc/TFG_IGPESE.pdf) | Final TFG document in PDF format |
+
+Images of the real robot along with its components.
 <table align="center">
   <tr>
     <td><img src="doc/figs_robot_real/eddiebot_compl_retoc.jpg" width="300"></td>
@@ -21,17 +23,18 @@ Imágenes del robot real junto con sus componentes.
   </tr>
 </table>
 
-Representaciones del gemelo digital simuladas en Gazebo.
+Digital twin representations simulated in Gazebo.
 <table align="center">
   <tr>
     <td><img src="doc/figs_simulacion/movGazebo.jpg" width="500"></td>
   </tr>
 </table>
 
-Se incluye un video que muestra el funcionamiento del trabajo final.
+A video showing the operation of the final project is included:
 https://youtu.be/RJX0aIKWb_4
 
-Como objetivo a futuro, se plantea la migración a ROS 2 para la realización de pruebas de movimiento para el Trabajo de Fin de Máster (TFM).
+As a future goal, migrating to ROS 2 is planned in order to carry out motion tests for the Master’s Final Project (TFM).
+
 
 
 
